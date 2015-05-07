@@ -1,4 +1,3 @@
-(A clearer example We're doing a localization project.  Our brilliant localiazation team has given us a function thqt knows what language we are putting out, so all we have to do is wrap each literal string in a toLocalLanguage()c calL)
 
 You've gotten a promotion at that prestigious firm, and an intern comes to you for help with a project due tomorrowq.  He's completely misunderstood his assingment and built a complicated web form and supporting Javascript that takes input through a GUI and turns it into an object:
 
