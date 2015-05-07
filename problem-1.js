@@ -19,7 +19,7 @@ var accusativePrepositions = ['a', 'ab', 'de', 'cum', 'e',
 // to horrible code that somehow manages to work, but you
 // never want to fully comprehend how.
 //
-// (Those two are provided as handy test cases.x
+// (Those two are provided as handy test cases.)
 //
 // Follow Dr. Fell's instructions: write a function named
 // printListOnConsole that takes an array and prints it out,
