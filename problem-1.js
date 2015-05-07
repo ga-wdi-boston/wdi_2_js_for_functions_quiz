@@ -1,14 +1,11 @@
 // Quiz: For and Functions
 //
-// Question 1: the Return of Dr. Fell
-// (because every villain deserves one last stinger in the credits)
-//
-// Dr Fell is in an absolute panic.  His grants are being
-// audited, and they want a hardcopy of his magnum opus, the
-// Collection of Word Lists.
-//
-// You've seen some of the Collection before.  It ranges
-// from neat, orderly arrays like this:
+// Question 1: write a function named printListOnConsole
+// that takes an array and prints it out, one item per line,
+// on the console.
+
+// use the function at the end of this script to print
+// out the following two arrays
 
 var ablativePrepositions = ['ante', 'ad', 'circum',
   'contra', 'inter', 'intra', 'post', 'in', 'praeter'];
@@ -16,35 +13,9 @@ var ablativePrepositions = ['ante', 'ad', 'circum',
 var accusativePrepositions = ['a', 'ab', 'de', 'cum', 'e',
   'ex', 'in', 'sine', 'pro', 'prae', 'sub', 'super'];
 
-// to horrible code that somehow manages to work, but you
-// never want to fully comprehend how.
-//
-// (Those two are provided as handy test cases.x
-//
-// Follow Dr. Fell's instructions: write a function named
-// printListOnConsole that takes an array and prints it out,
-// one item per line, on the console.
-
-
-
-
-
-
-
-
-
-
-
-// Code below this line is testing infrastructure.
-
-var problemOneTestable = {
-  ablativePrepositions: ablativePrepositions,
-  accusativePrepositions: accusativePrepositions,
-  allPrepositions: allPrepositions,
-  uniquePrepositions: uniquePrepositions,
-  printListOnConsole: typeof printListOnConsole === 'undefined' ?
-    function(){} : printListOnConsole,
+var printListOnConsole = function(arrayOfWords) {
+  /* your code goes here */
 };
 
-
+/* call the function here */
 
