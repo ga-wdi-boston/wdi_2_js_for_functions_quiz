@@ -9,12 +9,11 @@
 * You have 30 minutes.  When you are done, commit and push your work and make a
   pull request.
 
-* There are six questions on this quiz.  Because of this, if you find yourself taking more than five minutes on a problem, the wisest strategy is to leave it and come back to it. 
+* There are six questions on this quiz.  Because of this, if you find yourself taking more than five minutes on a problem, the wisest strategy is to leave it and come back to it.
 
 * Remember that you can use `jshint` to check the syntax and style of your code.
 
-* You can also say `grunt test` to run tests for all six problems, or `grunt test:question-1`, `grunt test:question-2`, `grunt test:question-3`, and so on, to test each question individually.
-     
+
 
 
 
