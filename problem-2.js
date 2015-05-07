@@ -5,7 +5,7 @@
 // that key on the following line
 
 // Use that function at the end of this file to print out
-// the the words and definitions on the object sixthGradeWords
+// the words and definitions on the object sixthGradeWords
 
 // Your code should produce the following result:
 //
