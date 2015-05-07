@@ -1,25 +1,11 @@
 // Quiz: For and Functions
 //
-// Question 2: Can You Make It Work More Like An Apple II?
-//
-// You're working as a consultant for an elementary school
-// adopting a very complicated learning management system.
-//
-// A few of the elementary school teachers have come to you.
-// They can get their vocabulary words for each week or unit
-// as a Javascript object.  They want to use it as input for
-// a flashcard program originally written years ago, which
-// expects a simple text file, with terms and definitions on
-// alternating lines. For instance if the learning
-// management system gives you a set of vocabulary words
-// like this:
+// Question 2: Write a function, printDefinitions(dictionary),
+// that prints each key in an object then prints the value for
+// that key on the following line
 
-var sixthGradeWords = {
-  antagonist: 'someone who offers opposition',
-  protagonist: 'the principal character in a work of fiction',
-  legacy: 'in law, a gift of personal property by will',
-  lore: 'knowledge gained through tradition or anecdote'
-};
+// Use that function at the end of this file to print out
+// the the words and definitions on the object sixthGradeWords
 
 // Your code should produce the following result:
 //
@@ -31,4 +17,18 @@ var sixthGradeWords = {
 // in law, a gift of personal property by will
 // lore
 // knowledge gained through tradition or anecdote
+
+var sixthGradeWords = {
+  antagonist: 'someone who offers opposition',
+  protagonist: 'the principal character in a work of fiction',
+  legacy: 'in law, a gift of personal property by will',
+  lore: 'knowledge gained through tradition or anecdote'
+};
+
+var printDefinitions = function(dictionary) {
+  /* your code goes here */
+};
+
+
+/* call the function here */
 
